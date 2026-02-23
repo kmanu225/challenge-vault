@@ -1,25 +1,18 @@
-# Algorithmic Problem Solving
+# challengeèvault
 
-This repository contains my personal collection of scripts and solutions to various algorithmic problems. These solutions are implemented in different programming languages and are aimed at improving problem-solving skills and algorithmic thinking.
+A collection of challenges and exercises focused on:
+- Algorithms
+- Cryptography
+- Cryptoanalysis
+- Logic & problem solving
 
-## 🚀 Topics Covered
+This repository is used for practice, experimentation, and sharpening analytical skills.
 
-- Sorting & Searching
-- Recursion & Backtracking
-- Dynamic Programming
-- Graph Algorithms
-- String Manipulation
-- Data Structures (Stacks, Queues, Trees, etc.)
+## Scope
+- Algorithmic challenges
+- Cipher breaking & cryptanalysis
+- CTF-style problems
+- Brain teasers & puzzles
 
-## 🛠 Languages Used
-
-- Python
-*(More may be added over time)*
-
-## 🌐 Sites where you can find problems
-
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [Codeforces](https://codeforces.com/)
-- [Euler project](https://projecteuler.net/)
-
+---
+Think. Break. Learn.
