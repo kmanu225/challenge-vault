@@ -1,0 +1,2 @@
+As the standard notes, it is not only required for k to be secret, but it is also crucial to select different k for different signatures, otherwise the equation in step 6 can be solved for dA, the private key.
+MIGHAkEVg3cNiNG7ifW6I8LmmrwBq36NeYfDBromGBq/OCugwTurugocpYdhCspq3sdG7aqxbVPwe6cbgjFSvh6J6HjNWgJCAXOzJmb7B2uGRWH+EkwWfCtmQFoA49tE+GZ9aTi0AgSgXV/orn71rTihE7BxseED0V88TuGuVgXMf/fuXPWX7Fs8

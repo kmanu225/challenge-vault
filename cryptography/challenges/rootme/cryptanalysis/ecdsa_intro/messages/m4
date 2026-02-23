@@ -1,0 +1,2 @@
+On the other hand, the signature size is the same for both DSA and ECDSA: approximately 4t bits, where t is the security level measured in bits, that is, about 320 bits for a security level of 80 bits.
+MIGIAkIBjjmXRPhAlM+hNlCR4zCdNChaPxN2jfqMIYa5aZnnDJXzXe7K/YXe76vd7xyBlY54aipFnJdJBHFGNWWMRDhCIj4CQgGogwUUCSt4MrjlRBwVYI85gAuwZMXpToe8VrhfOYr6/vzp425sc/O2FoNUA2u3n8JhLuwc204jZBVmSXpBTwguqQ==

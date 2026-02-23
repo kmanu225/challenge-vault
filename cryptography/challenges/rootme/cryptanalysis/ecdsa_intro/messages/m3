@@ -1,0 +1,2 @@
+For example, at a security level of 80 bits (meaning an attacker requires a maximum of about 2^80 operations to find the private key) the size of an ECDSA public key would be 160 bits, whereas the size of a DSA public key is at least 1024 bits.
+MIGIAkIBy6HDXJtvtQ0A/CD6s4BcYTi/m9dG14uSfmx3JEjLgbuy1HnS4dqQsPwUUk8l2wPu1TBzsN59Nxa4IZcpSJWs0YgCQgGilcdXPCs5WAWzrAanH4cOa16ilRctSQzCvO4xqPGqaY4FRmLv3ziwv46/jMM0LhCqxq3T80yjFsjt50F6HLneUw==

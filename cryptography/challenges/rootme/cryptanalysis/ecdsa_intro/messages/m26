@@ -1,0 +1,2 @@
+To ensure that k is unique for each message one may bypass random number generation completely and generate deterministic signatures by deriving k from both the message and the private key.
+MIGIAkIBgKKyyDq4xqEVWYeQCsOwL+XPGY2fyyfw7ofCH0wA4fpnTPwNG1To3Ayp4Gi+7PlaLal1oWhTvKVqqe0OeWuHEZECQgFLotXQBQa0em3U3GKvX4qM7kBaBZHwBpcCiRJ91GdSnSMmkDib5seNxnsEoMHGRDr8MgB+RkS6kQknURX0oiqLRQ==

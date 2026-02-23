@@ -1,0 +1,8 @@
+# ====================================================
+# Cryptohack "Flipping Cookie" challenge
+# https://cryptohack.org/courses/symmetric/flipping_cookie/
+# ====================================================
+
+# Tips:
+# - Impact of IV
+# - Don't forget delimiters

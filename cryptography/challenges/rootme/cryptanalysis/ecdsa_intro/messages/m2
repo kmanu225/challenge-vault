@@ -1,0 +1,2 @@
+As with elliptic-curve cryptography in general, the bit size of the public key believed to be needed for ECDSA is about twice the size of the security level, in bits.
+MIGIAkIBxLsdAGJTnOLmzjijaX/sVX0BlQQLt27cDiMiryuBU6BBsapNz5MnH70eUcic+olQclGpONVe3tj+q8LqHRPKPBYCQgFlCMN+eoyBZlPVXkT64FNYUkwUlGmd9CKkDAHMjTB1rmKirJpsOnSCzTbyR8w127Rf13HQBuaaaFBFNpMOuLe2BA==

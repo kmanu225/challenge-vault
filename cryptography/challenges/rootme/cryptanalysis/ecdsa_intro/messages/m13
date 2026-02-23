@@ -1,0 +1,2 @@
+1. Calculate e=HASH(m). (Here HASH is a cryptographic hash function, such as SHA-2, with the output converted to an integer.)
+MIGIAkIA4Mgh3otYdbhHcWUmZgZWGcDqm5z+94ULhvQ49EQ8e3xucpfI9iV0m2BaH+/9chPZTroi+xMGAQY8oChV1WTIUqoCQgDdI1lh8AI6zPGS3vrMEywl6skg15XttRXzqmEqGbIuWwHyqNnJ2W3SDpE2oAOwk7pUWnGDtWKcbMudbXsnccCWgA==
